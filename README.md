@@ -1,5 +1,4 @@
-# Project : Bridging the gap between density functional theory and quantum tensor networks to accurately model strongly correlated nanostructured materials
-daan.verraes@ugent.be
+# Bridging the gap between density functional theory and quantum tensor networks to accurately model strongly correlated nanostructured materials
 
 ## Prelude
 **PyWannier90**: (HPC: 6.4.0 GCCore 10.3.0 IPython 7.25.0) \
