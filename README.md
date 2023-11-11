@@ -11,3 +11,15 @@ module load ASE/3.22.1-foss-2022a \
 
 **Local**: \
 PySCF 2.4.0
+
+
+## To Do
+- Hopping afwerken incl. disentanglement
+- cRPA
+- speed-up code/calc vs. accuracy: symmetriseren, smearing, cutoff, ...
+- SrVO3 Afwerken + benchmark
+- Alpha en beta (vb. KUKS -> W90: Welke golffuncties?) + spin: KRKS, KUKS + hoe errors fixen?
+- La2CuO4
+- heatmap: lm-decomp op bands
+- Wannier90: disentangle; welke energy range/unit
+- init_guess: fixen?
