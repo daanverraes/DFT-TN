@@ -14,12 +14,12 @@ PySCF 2.4.0
 
 
 ## To Do
-- Hopping afwerken incl. disentanglement
+- Resolve issue with isosurfaces
+- Disentanglement: hopping, pywannier90, cRPA, ... (benchmark with La2CuO4)
 - cRPA
-- speed-up code/calc vs. accuracy: symmetriseren, smearing, cutoff, ...
-- SrVO3 Afwerken + benchmark
-- Alpha en beta (vb. KUKS -> W90: Welke golffuncties?) + spin: KRKS, KUKS + hoe errors fixen?
-- La2CuO4
+- cGW (self-energy corrections)
+- speed-up code/calc vs. accuracy: symmetriseren, parallelliseren, smearing, cutoff, ...
+- Alpha en beta (vb. KUKS -> W90: Welke golffuncties?) + spin: KRKS, KUKS + fix errors/warnings?
 - heatmap: lm-decomp op bands
-- Wannier90: disentangle; welke energy range/unit
 - init_guess: fixen?
+- DMRG, DMET, DMFT, ... (paper Gagliardi)
